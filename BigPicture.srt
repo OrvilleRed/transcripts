@@ -1,0 +1,2749 @@
+1
+00:00:14,000 --> 00:00:20,000
+Thanks Pat, thanks to the Royal Institution for having me back, this is one of my favorite places to come visit
+
+2
+00:00:20,000 --> 00:00:26,000
+and I thought that I would in the tradition of Michael Faraday and Humphrey Davy,
+
+3
+00:00:26,000 --> 00:00:29,000
+and all the greats who've stood more or less in this place
+
+4
+00:00:29,000 --> 00:00:33,000
+Begin the lecture by doing an experiment.
+
+5
+00:00:33,000 --> 00:00:37,000
+Now I'm a theoretical physicist. I'm not an experimenter, so don't get your hopes up too high
+
+6
+00:00:37,000 --> 00:00:44,000
+But I would like to do an experiment that illuminates the fundamental nature of motion.
+
+7
+00:00:44,000 --> 00:00:50,000
+Ok so you see here. We have an object. It's a book you can buy it at the finest book stores everywhere
+
+8
+00:00:50,000 --> 00:00:54,000
+and we're going to observe what happens to the object.
+
+9
+00:00:54,000 --> 00:00:58,000
+Nothing much happens to the object is the short answer to it
+
+10
+00:00:58,000 --> 00:01:04,000
+it just sits there, but I can if I push on the object get it moving and
+
+11
+00:01:04,000 --> 00:01:11,000
+then if I stop pushing, it stops moving -- the nature of motion there being demonstrated to you right there.
+
+12
+00:01:11,000 --> 00:01:17,000
+So if you were the kind of systematic thinker that let's say Aristotle was,
+
+13
+00:01:17,000 --> 00:01:24,000
+you would go from a demonstration like that to a very deep picture of how the world works at a fundamental level. 
+
+14
+00:01:24,000 --> 00:01:29,000
+You would say that there is something called the natural state for the book to be in,
+
+15
+00:01:29,000 --> 00:01:32,000
+which is just sitting there motionless.
+
+16
+00:01:32,000 --> 00:01:36,000
+You would say that if you don't do anything an object stays in its natural state.
+
+17
+00:01:36,000 --> 00:01:43,000
+But if you apply a force to it -- an impetus -- you can change its natural state.
+
+18
+00:01:43,000 --> 00:01:47,000
+You can cause it to start moving and you notice when I then stopped pushing
+
+19
+00:01:47,000 --> 00:01:51,000
+it stopped. It returns to its natural state.
+
+20
+00:01:51,000 --> 00:01:58,000
+So you invent what philosophers would call an ontology or a metaphysics or a fundamental view
+
+21
+00:01:58,000 --> 00:02:02,000
+of what the world is made of. It's made of things that have natural states.
+
+22
+00:02:02,000 --> 00:02:06,000
+And if they're not staying stationary and unchanging in their natural states,
+
+23
+00:02:06,000 --> 00:02:12,000
+it is because something is changing them. When there is motion there is a Mover.
+
+24
+00:02:12,000 --> 00:02:17,000
+And you can go from this simple idea to a theory of physics as Aristotle did
+
+25
+00:02:17,000 --> 00:02:22,000
+and you can in fact go beyond that to a theory of metaphysics that explains not just the motion of things
+
+26
+00:02:22,000 --> 00:02:26,000
+but more or less how everything changes and transforms at all.
+
+27
+00:02:26,000 --> 00:02:29,000
+You can even go all the way back -- you can say well, okay
+
+28
+00:02:29,000 --> 00:02:35,000
+this thing is moving because this other thing is pushing it. But what causes that other thing to be moving?
+
+29
+00:02:35,000 --> 00:02:40,000
+If you trace the chain of motion and movers backward you eventually
+
+30
+00:02:40,000 --> 00:02:44,000
+would need to reach an Unmoved Mover and thereby prove the existence of God
+
+31
+00:02:44,000 --> 00:02:48,000
+without ever leaving the lecture hall right here.
+
+32
+00:02:48,000 --> 00:02:55,000
+This way of thinking is not only a systematization of some very simple physics experiments you can do,
+
+33
+00:02:55,000 --> 00:02:58,000
+it also sort of accords well with our everyday experience.
+
+34
+00:02:58,000 --> 00:03:04,000
+When you see something moving or not moving, it's because something is moving it or not moving it.
+
+35
+00:03:04,000 --> 00:03:11,000
+So there became a philosophical tradition, which tried to go from the physics of it to a deeper understanding
+
+36
+00:03:11,000 --> 00:03:18,000
+claiming that everything that Happens -- whether it's motion or otherwise -- Happens for a Reason.
+
+37
+00:03:18,000 --> 00:03:21,000
+This is not just a bumper sticker you can buy,
+
+38
+00:03:21,000 --> 00:03:26,000
+this is a very venerable philosophical maxim known as the Principle of Sufficient Reason.
+
+39
+00:03:26,000 --> 00:03:33,000
+So here you have Aristotle, Spinoza followed up with his version of the Principle of Sufficient Reason
+
+40
+00:03:33,000 --> 00:03:37,000
+and then Leibniz on the right German philosopher who also invented Calculus
+
+41
+00:03:37,000 --> 00:03:45,000
+They all put forward this idea that we can understand how the world works at a deep level by providing
+
+42
+00:03:45,000 --> 00:03:48,000
+explanations for everything we see in it. Nothing happens randomly,
+
+43
+00:03:48,000 --> 00:03:52,000
+nothing "just happens" -- there's always a Purpose, a Cause, a Reason Why Things Happen.
+
+44
+00:03:52,000 --> 00:04:01,000
+You might be forgiven for thinking that the ultimate purpose was ever more grandiose hairstyles for professional philosophers
+
+45
+00:04:01,000 --> 00:04:07,000
+Even if Leibniz sort of had some artificial help there in in in his coiffeur
+
+46
+00:04:07,000 --> 00:04:12,000
+The problem is that this is not right.
+
+47
+00:04:12,000 --> 00:04:16,000
+The problem is that the world does not work this way at a fundamental level.
+
+48
+00:04:16,000 --> 00:04:22,000
+There's two problems -- one is it's not right; the other is despite the fact that it's not right, we haven't abandoned it yet.
+
+49
+00:04:22,000 --> 00:04:28,000
+So we have learned a lot about how the world works because of the progress of science and philosophy
+
+50
+00:04:28,000 --> 00:04:35,000
+but we still talk a language that is handed down to us by Aristotle, Spinoza, and Leibniz.
+
+51
+00:04:35,000 --> 00:04:40,000
+Now people have tried to fix the language -- here is Bertrand Russell, a more modern philosopher
+
+52
+00:04:40,000 --> 00:04:45,000
+trying to point out that the very idea of Cause and Effect
+
+53
+00:04:45,000 --> 00:04:47,000
+is no longer fundamental in our understanding of the world.
+
+54
+00:04:47,000 --> 00:04:56,000
+He says, "The Law of Causality, I believe, Like much that passes muster among philosophers, is a relic of a bygone age. Surviving, like the monarchy..."
+
+55
+00:04:56,000 --> 00:05:02,000
+He couldn't resist, right? Like, I'm just the messenger here. This is not -- I'm not saying this --
+
+56
+00:05:02,000 --> 00:05:08,000
+"Surviving, like the monarchy, only because it is erroneously supposed to do no harm."
+
+57
+00:05:08,000 --> 00:05:15,000
+Now many people would be surprised to hear the news that science has done away with the Principle of Cause and Effect.
+
+58
+00:05:15,000 --> 00:05:20,000
+But I'm not gonna undo that -- it's actually true! It's not that there is no such thing as cause and effect.
+
+59
+00:05:20,000 --> 00:05:25,000
+It's that it is not a fundamental principle of how reality works.
+
+60
+00:05:25,000 --> 00:05:29,000
+It is a very useful helpful way of thinking it about things at a macroscopic --
+
+61
+00:05:29,000 --> 00:05:32,000
+what we will call an emergent -- level of reality.
+
+62
+00:05:32,000 --> 00:05:37,000
+But it is nowhere to be found in the most fundamental laws of physics.
+
+63
+00:05:37,000 --> 00:05:43,000
+And that difference puts us in the position of Wile E Coyote, a famous American cartoon character.
+
+64
+00:05:43,000 --> 00:05:48,000
+I don't know how popular the Roadrunner is in uh in the UK? Good.
+
+65
+00:05:48,000 --> 00:05:51,000
+So Wile E Coyote you will remember if you're of the right age
+
+66
+00:05:51,000 --> 00:05:55,000
+had this thing that he did every single episode where he would run off a cliff.
+
+67
+00:05:55,000 --> 00:06:02,000
+And because it's cartoon physics -- not either Aristotelian or Newtonian physics -- he would not fall down
+
+68
+00:06:02,000 --> 00:06:05,000
+until he noticed that he was not standing on anything.
+
+69
+00:06:05,000 --> 00:06:09,000
+He would look around, and then oh! and then he would fall down, okay
+
+70
+00:06:09,000 --> 00:06:15,000
+We are all Wile E Coyote in some sense and in the following sense --
+
+71
+00:06:15,000 --> 00:06:21,000
+This cliff, this solid surface that we used to be walking on, is our old fashioned,
+
+72
+00:06:21,000 --> 00:06:27,000
+Aristotelian et al., notion of Causes and Effects and Purposes and Meanings in the world.
+
+73
+00:06:27,000 --> 00:06:35,000
+We have left that behind. The fundamental rules of nature, according to our best scientific understanding, don't work that way
+
+74
+00:06:35,000 --> 00:06:42,000
+but we haven't adapted. We still speak a language as if Cause and Effect, Purpose and Goals,
+
+75
+00:06:42,000 --> 00:06:46,000
+and Reasons Why are the fundamental way the world works.
+
+76
+00:06:46,000 --> 00:06:49,000
+So one of our challenges should be to reconcile the
+
+77
+00:06:49,000 --> 00:06:55,000
+deep down vocabulary of the world given to us by physics and modern science
+
+78
+00:06:55,000 --> 00:07:02,000
+with what philosophers call the Manifest Image -- the immediately accessible view of the world we have.
+
+79
+00:07:02,000 --> 00:07:08,000
+After all, physicists love to make fun of Aristotle and say how wrong he was, but look --
+
+80
+00:07:08,000 --> 00:07:12,000
+the book does stop moving, right?  That's not a mistake!
+
+81
+00:07:12,000 --> 00:07:14,000
+That is an accurate way of talking about the world.
+
+82
+00:07:14,000 --> 00:07:21,000
+Cause and Effect are accurate useful ways of talking about the world. You can be accurate without being fundamental.
+
+83
+00:07:21,000 --> 00:07:26,000
+Our goal is to show how at different levels of analysis -- different levels of squinting at the world --
+
+84
+00:07:26,000 --> 00:07:32,000
+reveal different rules, regularities, and even vocabularies for speaking.
+
+85
+00:07:32,000 --> 00:07:38,000
+So I like to trace the origin of this shift from Aristotle to Bertrand Russell for example
+
+86
+00:07:38,000 --> 00:07:47,000
+It's actually a long series of very very interesting thoughts and experiments over hundreds of years
+
+87
+00:07:47,000 --> 00:07:52,000
+between Aristotle and let's say Isaac Newton.  I like to give some credit to this guy Ibn Sina who sometimes
+
+88
+00:07:52,000 --> 00:08:01,000
+Romanized or Latinized as "Avicenna". He was a Persian polymath in the Islamic Golden Age in around the Year 1000
+
+89
+00:08:01,000 --> 00:08:06,000
+and as a modern day theoretical physicist I find Ibn Sina extremely annoying.
+
+90
+00:08:06,000 --> 00:08:09,000
+because his day job was he was a doctor
+
+91
+00:08:09,000 --> 00:08:14,000
+he was his interests were in health and human anatomy and he wrote many books about the human body
+
+92
+00:08:14,000 --> 00:08:19,000
+and on weekends he invented new fundamental laws of physics.
+
+93
+00:08:19,000 --> 00:08:23,000
+We can't do that anymore, it's more work now. The low-hanging fruit has been picked.
+
+94
+00:08:23,000 --> 00:08:29,000
+So Ibn Sina was thinking about Aristotelian notions of motion and so forth
+
+95
+00:08:29,000 --> 00:08:35,000
+and what he pointed out for the very first time was that this idea that the book stops moving
+
+96
+00:08:35,000 --> 00:08:40,000
+shouldn't be thought of as the book returning to its natural state of motion
+
+97
+00:08:40,000 --> 00:08:43,000
+because if the book was not on the table here in a room,
+
+98
+00:08:43,000 --> 00:08:47,000
+but rather out in space -- like the spacecraft -- if it were in the vacuum
+
+99
+00:08:47,000 --> 00:08:56,000
+the book would just keep moving at a constant velocity. What we now call Conservation of Momentum or Conservation of Inertia.
+
+100
+00:08:56,000 --> 00:08:59,000
+Now Ibn Sina didn't like this idea. He didn't even like the idea of a vacuum.
+
+101
+00:08:59,000 --> 00:09:03,000
+In the year 1000 we weren't sure whether there were any vacua ("vacuums")
+
+102
+00:09:03,000 --> 00:09:07,000
+so he put forward this idea, but it was seized upon by later thinkers.
+
+103
+00:09:07,000 --> 00:09:14,000
+There's no such thing as natural motion versus being pushed -- the natural motion of things is just to keep moving
+
+104
+00:09:14,000 --> 00:09:17,000
+you don't need to keep things pushed.
+
+105
+00:09:17,000 --> 00:09:22,000
+And of course Galileo helped develop this idea. He pointed out that if you think of the
+
+106
+00:09:22,000 --> 00:09:28,000
+fundamental starting point of motion as constant motion with the uniform velocity,
+
+107
+00:09:28,000 --> 00:09:33,000
+and then put in things like friction and dissipation and air resistance afterward,
+
+108
+00:09:33,000 --> 00:09:38,000
+you get a much more accurate, precise, quantitative feeling for what happens in the world.
+
+109
+00:09:38,000 --> 00:09:44,000
+So the secret thing that sneaks in is not just a new way to torture first-year physics
+
+110
+00:09:44,000 --> 00:09:48,000
+students with inclined planes and pulleys and so forth.
+
+111
+00:09:48,000 --> 00:09:51,000
+There's a fundamentally new way of looking at the world.
+
+112
+00:09:51,000 --> 00:09:57,000
+The world is not made of Motions that have a Mover, Effects that have Causes
+
+113
+00:09:57,000 --> 00:10:01,000
+There are things that are doing their thing according to some rigorous
+
+114
+00:10:01,000 --> 00:10:07,000
+mathematical laws of physics, some conservation laws very often, such as conservation of momentum.
+
+115
+00:10:07,000 --> 00:10:11,000
+And of course once Isaac Newton came along and put together his theory
+
+116
+00:10:11,000 --> 00:10:18,000
+of physics and motion and mechanics we had a much deeper version of Conservation
+
+117
+00:10:18,000 --> 00:10:23,000
+what you could call Conservation of Information. And even though it's sort of in some implicit
+
+118
+00:10:23,000 --> 00:10:29,000
+sense due to Isaac Newton, it was really Pierre Simone Laplace who stuck his neck out and really
+
+119
+00:10:29,000 --> 00:10:35,000
+understood the implications of Newtonian mechanics. Laplace points out the following thing.
+
+120
+00:10:35,000 --> 00:10:39,000
+Let's imagine that we believed Newton's laws of motion -- which they did at the time --
+
+121
+00:10:39,000 --> 00:10:47,000
+and in fact I'll point out we updated them since then but it's not a fundamentally -- not in a way that really changes this particular analysis.
+
+122
+00:10:47,000 --> 00:10:51,000
+Laplace says look, think of two billiard balls bouncing into each other and scattering off.
+
+123
+00:10:51,000 --> 00:10:58,000
+Now he takes these in the tradition of Ibn Sina and Galileo and so forth to be physicist billiard balls
+
+124
+00:10:58,000 --> 00:11:02,000
+They make no noise, they have no air resistance, are on a frictionless surface.
+
+125
+00:11:02,000 --> 00:11:08,000
+So they scatter off and they go their own way. The traditional question we would ask of our students is, if you
+
+126
+00:11:08,000 --> 00:11:14,000
+gave me the information at the start of the experiment -- so where the balls were, and how they were moving --
+
+127
+00:11:14,000 --> 00:11:20,000
+I could tell you -- I could solve the equations and tell you how they would evolve thereafter.
+
+128
+00:11:20,000 --> 00:11:24,000
+But what Laplace points out is that in fact you could give me the
+
+129
+00:11:24,000 --> 00:11:29,000
+information about what the billiard balls are doing at any moment in time.
+
+130
+00:11:29,000 --> 00:11:35,000
+You could not only tell what's going to happen next, according to Newton's laws, you could say what did happen before that.
+
+131
+00:11:35,000 --> 00:11:44,000
+The information necessary to tell you what's happening in those billiard balls is contained equally well in every moment of their existence.
+
+132
+00:11:44,000 --> 00:11:51,000
+So he says imagine a vast intellect. Later commentators thought that "vast intellect" was insufficiently sexy,
+
+133
+00:11:51,000 --> 00:11:55,000
+so they said imagine a Demon -- which we now call Laplace's Demon --
+
+134
+00:11:55,000 --> 00:12:01,000
+and of course if we had been at 20th or a 21st century commentator would have been imagine a really big computer.
+
+135
+00:12:01,000 --> 00:12:06,000
+That knew the position and the velocity of everything in the universe and all the laws of physics
+
+136
+00:12:06,000 --> 00:12:11,000
+and had apparently infinite calculational abilities -- computational capacity.
+
+137
+00:12:11,000 --> 00:12:19,000
+To this vast intellect, Laplace says, there is no difference between the present the past and the future.
+
+138
+00:12:19,000 --> 00:12:26,000
+The future and the past are equally transparent and known as the present is, because they are determined by the Laws of Nature.
+
+139
+00:12:26,000 --> 00:12:33,000
+So this sets up a whole long, centuries-long debate about Determinism and Freewill and etc
+
+140
+00:12:33,000 --> 00:12:38,000
+But there's something deeper that gets glossed over sometimes and it is worth bringing out
+
+141
+00:12:38,000 --> 00:12:44,000
+It's not that anything goes, but the vocabulary has changed.
+
+142
+00:12:44,000 --> 00:12:50,000
+Aristotle would have said if things are moving, there's something moving them. There's a Cause or a Reason Why they are moving.
+
+143
+00:12:50,000 --> 00:12:56,000
+Laplace says they just obey equations. What that means is that rather than a cause-and-effect relationship,
+
+144
+00:12:56,000 --> 00:13:02,000
+we have patterns in the universe. Think about the integers, right?
+
+145
+00:13:02,000 --> 00:13:06,000
+The number zero, one, two, three, and also negative minus one, minus two, minus three...
+
+146
+00:13:06,000 --> 00:13:13,000
+There's a pattern there. If you tell me any one number, if you say "three", I know what the number before that was.
+
+147
+00:13:13,000 --> 00:13:17,000
+It was two. I know what the number after that's gonna be, it's gonna be four.
+
+148
+00:13:17,000 --> 00:13:25,000
+But I don't think that three is the cause of four or vice-versa. There's just a pattern that relates all those numbers to each other.
+
+149
+00:13:25,000 --> 00:13:28,000
+Laplace is saying the laws of physics are like that.
+
+150
+00:13:28,000 --> 00:13:32,000
+It's not that there is an impulse, an enchantment, a Guiding Force
+
+151
+00:13:32,000 --> 00:13:37,000
+it's just there's a pattern that says if-this-then-that-and-vice-versa
+
+152
+00:13:37,000 --> 00:13:43,000
+and this way of thinking about how the world works at a deep level is something we have yet to truly absorb.
+
+153
+00:13:43,000 --> 00:13:47,000
+Of course Laplace was not right. He didn't know about the true laws of physics,
+
+154
+00:13:47,000 --> 00:13:52,000
+he thought that Newton's laws were more or less correct he had every reason to believe that was true
+
+155
+00:13:52,000 --> 00:13:58,000
+but since then we have Relativity and Quantum Mechanics and so forth, so we have a better idea now of what the laws fundamentally are.
+
+156
+00:13:58,000 --> 00:14:01,000
+In fact, one of the bold claims I want to make
+
+157
+00:14:01,000 --> 00:14:06,000
+-- and you're willing to disbelieve me if you want, but you would be incorrect --
+
+158
+00:14:06,000 --> 00:14:13,000
+is that the Laws of Physics underlying everyday life are today completely known.
+
+159
+00:14:13,000 --> 00:14:21,000
+Here, I put on a slide just in case. This sounds very much like one of those incredibly
+
+160
+00:14:21,000 --> 00:14:26,000
+dopey pretentious statements that scientists have made for hundreds of years right? Scientists, especially
+
+161
+00:14:26,000 --> 00:14:33,000
+physicists -- my tribe -- are very very famous for saying, "You know any day now, we'll have it all figured out,
+
+162
+00:14:33,000 --> 00:14:38,000
+we'll have the Theory of Everything." This was especially common in the late 19th Century.
+
+163
+00:14:38,000 --> 00:14:43,000
+People were saying, "Yes, we have you know Mechanics and Thermodynamics and Electromagnetism,
+
+164
+00:14:43,000 --> 00:14:47,000
+any day now we'll have all the physics figured out."
+
+165
+00:14:47,000 --> 00:14:51,000
+And then of course it all went to Hell because they invented Relativity and Quantum Mechanics and so forth.
+
+166
+00:14:51,000 --> 00:14:57,000
+I'm not saying that. I'm not making any statement whatsoever about how close we are to
+
+167
+00:14:57,000 --> 00:15:00,000
+understanding all of the laws of physics or everything we are made of.
+
+168
+00:15:00,000 --> 00:15:06,000
+What I'm saying is we know some of the laws of physics some of the things that we are made of,
+
+169
+00:15:06,000 --> 00:15:13,000
+and more importantly the regime that we do understand -- the domain of validity of our current knowledge --
+
+170
+00:15:13,000 --> 00:15:20,000
+includes everything in this room.  Includes everything that you experience in the everyday regime of your life,
+
+171
+00:15:20,000 --> 00:15:25,000
+as long as your everyday regime is not that of an experimental particle physicist.
+
+172
+00:15:25,000 --> 00:15:30,000
+You are made of atoms. You are made of particles: electrons, protons, neutrons.
+
+173
+00:15:30,000 --> 00:15:34,000
+Those protons and neutrons are made of quarks: 'up' and 'down' quarks
+
+174
+00:15:34,000 --> 00:15:42,000
+And these particles feel forces and there's basically four forces that are relevant here: gravity pulling everything together,
+
+175
+00:15:42,000 --> 00:15:47,000
+electromagnetism pulling together unlike charges and pushing away like charges.
+
+176
+00:15:47,000 --> 00:15:53,000
+There's a strong nuclear force that binds those quarks together to make the proton and the neutron.
+
+177
+00:15:53,000 --> 00:15:58,000
+And there's a weak nuclear force which is almost irrelevant except it helps the Sun shine so that's kind of important.
+
+178
+00:15:58,000 --> 00:16:05,000
+The weak nuclear force converts protons to neutrons and vice versa by spitting out a particle called a neutrino.
+
+179
+00:16:05,000 --> 00:16:12,000
+Okay, so four particles: electron, up quark, down quark, neutrino. Four forces: gravity, electromagnetism, strong, and weak.
+
+180
+00:16:12,000 --> 00:16:19,000
+... and that's it. We know there are other particles. There are muons. There are top quarks etc
+
+181
+00:16:19,000 --> 00:16:24,000
+You can argue over the exact cutoff for everyday life, okay?
+
+182
+00:16:24,000 --> 00:16:31,000
+But you're made of these particles and everything you see with your eyes, touch with your fingers, taste with your tongue
+
+183
+00:16:31,000 --> 00:16:41,000
+made of these particles. And the statement I want to make is that understanding of what you're made of -- the particles and the forces, the laws that they obey --
+
+184
+00:16:41,000 --> 00:16:47,000
+is true. It's not gonna go away. It's not like Epicycles or
+
+185
+00:16:47,000 --> 00:16:53,000
+Phlogiston or Caloric, these ideas that we had in the past that we showed later were completely wrong
+
+186
+00:16:53,000 --> 00:17:02,000
+It's an idea that a thousand years from now or a million years from now we're still going to believe that these particles exist, that the rules that we now know are
+
+187
+00:17:02,000 --> 00:17:07,000
+accurate ways of talking about how they behave inside you. We might get a deeper understanding
+
+188
+00:17:07,000 --> 00:17:12,000
+you might realize that Space and Time themselves aren't fundamental.
+
+189
+00:17:12,000 --> 00:17:18,000
+We certainly don't know how to take these laws and build them up to make Biology and Chemistry and Economics or anything like that.
+
+190
+00:17:18,000 --> 00:17:26,000
+But at this particular level -- What are the particles and forces that you and I are made out of, what are the equations that tell us how they behave?
+
+191
+00:17:26,000 --> 00:17:33,000
+We know that. And I know that you don't believe me because I'm just showing you a cartoon. You're thinking to yourself
+
+192
+00:17:33,000 --> 00:17:39,000
+I'm not gonna believe this until I see the equation. So here you go
+
+193
+00:17:39,000 --> 00:17:44,000
+This is the equation. I'm very grateful to the Royal Institution for giving me these six hours, so I can explain
+
+194
+00:17:44,000 --> 00:17:51,000
+all of the terms in this equation in great detail. But that's okay, you don't need to know all the details.
+
+195
+00:17:51,000 --> 00:17:58,000
+As you see from the labels on the equation this is a single equation that more or less is the information
+
+196
+00:17:58,000 --> 00:18:04,000
+that the modern-day version of Laplace's Demon would need to tell you what happens in the world.
+
+197
+00:18:04,000 --> 00:18:09,000
+This is the answer to the question, you tell me what the configuration of stuff in the world is right now
+
+198
+00:18:09,000 --> 00:18:14,000
+this equation tells you what it will be a little bit in the future, what it was a little bit in the past.
+
+199
+00:18:14,000 --> 00:18:20,000
+It's a quantum mechanical equation, so if you observe the system,
+
+200
+00:18:20,000 --> 00:18:24,000
+one of the things about quantum mechanics is you can only predict probabilities not certainties.
+
+201
+00:18:24,000 --> 00:18:30,000
+But this is the equation that tells you what those probabilities are. It includes Quantum Mechanics, Spacetime,
+
+202
+00:18:30,000 --> 00:18:36,000
+all the matter particles that we're made of as well as all the forces that we know about and of course the Higgs field
+
+203
+00:18:36,000 --> 00:18:41,000
+Lurking in the background that we finally had evidence for back in 2012.
+
+204
+00:18:41,000 --> 00:18:49,000
+What you don't see in this picture is anything that Aristotle would recognize as a Final Cause
+
+205
+00:18:49,000 --> 00:18:54,000
+or anything that Leibniz would recognize as the Reason Why a certain event is happening.
+
+206
+00:18:54,000 --> 00:18:59,000
+The language being spoken here is that of patterns and differential equations,
+
+207
+00:18:59,000 --> 00:19:05,000
+not of causes, purposes, meanings, and there's no values here. There's no judgments.
+
+208
+00:19:05,000 --> 00:19:09,000
+This equation -- what we call the Core Theory of Physics --
+
+209
+00:19:09,000 --> 00:19:13,000
+which has all the particle physics and also all the gravity that we know about.
+
+210
+00:19:13,000 --> 00:19:18,000
+The Core Theory doesn't pass judgment on you or me.  It doesn't tell us what is right from wrong.
+
+211
+00:19:18,000 --> 00:19:23,000
+It just tells you what is going to happen. Now even though I showed you the equation, you might still not be happy because you say,
+
+212
+00:19:23,000 --> 00:19:29,000
+"Well I only trust equations that can fit on a T-shirt." So I have the experimental evidence that
+
+213
+00:19:29,000 --> 00:19:38,000
+the Core Theory can fit on a T-shirt. We're in good shape now. I know what you're thinking. I've given this talk before, different forms.
+
+214
+00:19:38,000 --> 00:19:43,000
+You're thinking, "Fine, you guys, you physicists, you have your particles and your forces.
+
+215
+00:19:43,000 --> 00:19:48,000
+But it's just the same kind of hubris to say that we're not going to discover new
+
+216
+00:19:48,000 --> 00:19:55,000
+particles and forces that you don't know about yet. How do you know that there's not new particles, Mr. Smartypants Physicist?"
+
+217
+00:19:55,000 --> 00:20:00,000
+And of course, there's two answers for that. One is it's almost certainly true that there are
+
+218
+00:20:00,000 --> 00:20:03,000
+new particles and forces that we've not yet discovered.
+
+219
+00:20:03,000 --> 00:20:10,000
+Remember, all I'm claiming is that we've discovered the particles and forces relevant to our everyday lives.
+
+220
+00:20:10,000 --> 00:20:15,000
+As a working theoretical physicist, I certainly hope there are new particles and forces in understanding,
+
+221
+00:20:15,000 --> 00:20:21,000
+I'm just saying that whatever we discover along those lines is not going to affect your Biology.
+
+222
+00:20:21,000 --> 00:20:24,000
+It's not gonna affect your Psychology.
+
+223
+00:20:24,000 --> 00:20:29,000
+It's not gonna affect the motion of the particles that do make up you that we know about right now.
+
+224
+00:20:29,000 --> 00:20:33,000
+So how do we know that? That's a very grandiose claim.
+
+225
+00:20:33,000 --> 00:20:40,000
+It's one that we really could not have made in years past. It turns out to be a very specific feature of the way
+
+226
+00:20:40,000 --> 00:20:46,000
+that this equation works. It is based on the principles of what we call Quantum Field Theory.
+
+227
+00:20:46,000 --> 00:20:52,000
+Field Theory is the idea that what you think is a particle like an electron or a photon is really a
+
+228
+00:20:52,000 --> 00:20:59,000
+vibration in a field filling all of space. Why does it look like a particle instead of looking like a field?
+
+229
+00:20:59,000 --> 00:21:04,000
+That's where the Quantum comes in. Quantum says that when you look at these things that make up the world
+
+230
+00:21:04,000 --> 00:21:09,000
+they come to you in discrete packets of stuff. We call those packets of stuff "particles."
+
+231
+00:21:09,000 --> 00:21:14,000
+So Quantum Field Theory says the world is made of fields, but Quantum Mechanics
+
+232
+00:21:14,000 --> 00:21:18,000
+gives us the rules for observing them so we can talk about them in terms of particles.
+
+233
+00:21:18,000 --> 00:21:23,000
+And then it goes on to draw implications from that idea.
+
+234
+00:21:23,000 --> 00:21:29,000
+So here's one simple implication of Quantum Field Theory called Crossing Symmetry
+
+235
+00:21:29,000 --> 00:21:35,000
+that's usually taught as a little technical tool in Quantum Field Theory, but it actually has extremely profound implications.
+
+236
+00:21:35,000 --> 00:21:43,000
+So let's say we imagine that there is a particle or a force or a field that we haven't yet found
+
+237
+00:21:43,000 --> 00:21:48,000
+in our experiments that might in fact play an important role in human biology or neuroscience.
+
+238
+00:21:48,000 --> 00:21:50,000
+How would that work?
+
+239
+00:21:50,000 --> 00:21:57,000
+Well the first thing that a physicist would do given the proposition that there's a new particle is start drawing these pictures
+
+240
+00:21:57,000 --> 00:22:02,000
+what are called Feynman Diagrams. Named after Richard Feynman, my predecessor at Caltech.
+
+241
+00:22:02,000 --> 00:22:06,000
+My most famous accomplishment as a physicist is I sit at the desk that Richard Feynman used to sit at.
+
+242
+00:22:06,000 --> 00:22:11,000
+It is the desk given to the most senior theoretical physicist at Caltech
+
+243
+00:22:11,000 --> 00:22:18,000
+who is not senior enough to get a brand new desk when they get there. So I got that one.
+
+244
+00:22:18,000 --> 00:22:24,000
+These Feynman diagrams do two things: they number one show us what can happen. They are pictures of actual processes.
+
+245
+00:22:24,000 --> 00:22:30,000
+So the diagram on the left, you have an ordinary particle at the bottom. Let's say a proton.
+
+246
+00:22:30,000 --> 00:22:34,000
+At the top, the red line is some new particle, some particle that we've hypothesized
+
+247
+00:22:34,000 --> 00:22:39,000
+and we're imagining there's some new interaction or some old interaction
+
+248
+00:22:39,000 --> 00:22:41,000
+maybe electromagnetism or the weak nuclear force
+
+249
+00:22:41,000 --> 00:22:46,000
+via which this new particle can interact with the particle that we know about -- the proton --
+
+250
+00:22:46,000 --> 00:22:52,000
+so you read the diagram from left to right it says that the new particle comes in,
+
+251
+00:22:52,000 --> 00:22:57,000
+a proton comes in, and they scatter off of each other by exchanging some Boson --
+
+252
+00:22:57,000 --> 00:23:01,000
+some photon or some new Boson that we haven't heard about okay
+
+253
+00:23:01,000 --> 00:23:04,000
+Number one, the diagram tells you that can happen,
+
+254
+00:23:04,000 --> 00:23:08,000
+but number two, there are rules for attaching numbers to these diagrams.
+
+255
+00:23:08,000 --> 00:23:14,000
+So if you're a graduate student in physics this diagram will strike fear into your heart, because you go, "oh no
+
+256
+00:23:14,000 --> 00:23:19,000
+I have to calculate a scattering amplitude." And the diagram lets you do that. It tells you the probability
+
+257
+00:23:19,000 --> 00:23:22,000
+the two particles will come in and scatter off.
+
+258
+00:23:22,000 --> 00:23:27,000
+Now Crossing Symmetry is a feature of Quantum Field Theory that says
+
+259
+00:23:27,000 --> 00:23:30,000
+given this diagram given some new particle
+
+260
+00:23:30,000 --> 00:23:35,000
+they could in principle interact with -- an old particle that I know I have inside me --
+
+261
+00:23:35,000 --> 00:23:42,000
+I can rotate the diagram by 90 degrees and I get a new diagram that is a little bit different when I rotate it.
+
+262
+00:23:42,000 --> 00:23:46,000
+You know time goes from left to right in these diagrams
+
+263
+00:23:46,000 --> 00:23:52,000
+There's this, there's a little technical rule that if a line gets flipped from going left to right from to going right to left
+
+264
+00:23:52,000 --> 00:23:57,000
+I exchange a particle with an antiparticle. We're not at that level of detail here,
+
+265
+00:23:57,000 --> 00:24:03,000
+but the point is that rotated diagram gives me a new process with the same probability --
+
+266
+00:24:03,000 --> 00:24:07,000
+the same quantum amplitude -- as the old process has.
+
+267
+00:24:07,000 --> 00:24:10,000
+In other words, if the thing on the left can happen
+
+268
+00:24:10,000 --> 00:24:13,000
+where the new particle and the old particle scatter off each other,
+
+269
+00:24:13,000 --> 00:24:17,000
+then the thing on the right can happen where two existing particles --
+
+270
+00:24:17,000 --> 00:24:24,000
+two protons or two electrons or something like that -- can annihilate into each other and
+
+271
+00:24:24,000 --> 00:24:30,000
+create this new particle. You can produce the new particle. It can't hide from you.
+
+272
+00:24:30,000 --> 00:24:36,000
+And this idea that we smash particles together and look to see what comes out and hope that new particles comes out
+
+273
+00:24:36,000 --> 00:24:42,000
+that is what particle physicists do! We've been smashing particles together for decades
+
+274
+00:24:42,000 --> 00:24:48,000
+Electrons and other electrons, electrons and positrons, protons and protons, protons and antiprotons,
+
+275
+00:24:48,000 --> 00:24:55,000
+neutrons... We've smashed everything together that we have in the Core Theory of particle physics. We've seen what comes out
+
+276
+00:24:55,000 --> 00:25:00,000
+That's how we discovered the Higgs boson at the Large Hadron Collider in 2012
+
+277
+00:25:00,000 --> 00:25:06,000
+Is it possible that there are particles that exist that haven't yet been produced in this way?
+
+278
+00:25:06,000 --> 00:25:09,000
+Sure. But we know what that would mean.
+
+279
+00:25:09,000 --> 00:25:15,000
+Either they interact with ordinary matter so weakly that you can't make them
+
+280
+00:25:15,000 --> 00:25:20,000
+when you smash literally billions of particles together and none of these new particles are created.
+
+281
+00:25:20,000 --> 00:25:22,000
+That's possible.
+
+282
+00:25:22,000 --> 00:25:28,000
+But if that's possible then they're not gonna play an important role in you. They're -- you can't make them
+
+283
+00:25:28,000 --> 00:25:33,000
+They're just irrelevant to the processes that describe the atoms and the molecules inside you.
+
+284
+00:25:33,000 --> 00:25:37,000
+The other possibility is that you do make them, but then they quickly decay away.
+
+285
+00:25:37,000 --> 00:25:40,000
+That's what happens with the Higgs boson for example.
+
+286
+00:25:40,000 --> 00:25:44,000
+The Higgs boson you make it then it decays away in one zeptosecond.
+
+287
+00:25:44,000 --> 00:25:51,000
+A zeptosecond is ... a very short period of time. Ten to the minus 21 seconds.
+
+288
+00:25:51,000 --> 00:25:57,000
+So we say we've discovered the Higgs boson at CERN. We've never seen a Higgs boson
+
+289
+00:25:57,000 --> 00:26:04,000
+We've seen the thing the Higgs bosons decay into and if that's the way that these particles have avoided being seen
+
+290
+00:26:04,000 --> 00:26:11,000
+then again, they're not relevant to you and me. If you did have any in your brain, they would decay away. In a zeptosecond. Or less.
+
+291
+00:26:11,000 --> 00:26:16,000
+This is why we can make this kind of statement about our knowledge of the laws of physics underlying everyday life.
+
+292
+00:26:16,000 --> 00:26:21,000
+It's certainly -- you're welcome to imagine other new particles and forces.
+
+293
+00:26:21,000 --> 00:26:27,000
+But if they were there, and they were strongly interacting enough with you and me to be relevant to our everyday lives
+
+294
+00:26:27,000 --> 00:26:34,000
+we would have seen them already and we do not. So we know what you and I are made of.
+
+295
+00:26:34,000 --> 00:26:42,000
+What is remaining to do is to match this underlying Core Theory equation to the everyday life that we see
+
+296
+00:26:42,000 --> 00:26:45,000
+And that's where this principle called Emergence comes in.
+
+297
+00:26:45,000 --> 00:26:53,000
+That we have different vocabularies, different stories we can tell about the world at different levels of detail.
+
+298
+00:26:53,000 --> 00:26:57,000
+The story of the Core Theory with the particles the electrons and the Quantum Fields bumping into each other.
+
+299
+00:26:57,000 --> 00:27:05,000
+That's the microscopic version of reality. Our best current microscopic description. We may in the future do get even deeper layers,
+
+300
+00:27:05,000 --> 00:27:08,000
+but the layer that we have right now won't go away.
+
+301
+00:27:08,000 --> 00:27:15,000
+And that microscopic description is a story of Particles, Fields, Differential Equations.
+
+302
+00:27:15,000 --> 00:27:20,000
+The macroscopic world that we are familiar with in our everyday lives that Aristotle knew about
+
+303
+00:27:20,000 --> 00:27:25,000
+speaks a completely different language. There is dissipation, there's Cause and Effect.
+
+304
+00:27:25,000 --> 00:27:30,000
+There's a natural state for things to move in, there are reasons why
+
+305
+00:27:30,000 --> 00:27:35,000
+things happen rather than not happen and much of this is due to this first
+
+306
+00:27:35,000 --> 00:27:40,000
+item on the list here, the arrow of time. The difference between past and future.
+
+307
+00:27:40,000 --> 00:27:44,000
+The arrow of time is something that is absolutely central to how we think about the world.
+
+308
+00:27:44,000 --> 00:27:48,000
+It is so central that you don't notice it is a thing.
+
+309
+00:27:48,000 --> 00:27:53,000
+Aristotle -- who wrote books on absolutely everything from metaphysics to drama --
+
+310
+00:27:53,000 --> 00:22:56,000
+never talked about the arrow of time.
+
+311
+00:22:56,000 --> 00:27:59,000
+Of course the past is different from the future. That's just an obvious thing.
+
+312
+00:27:59,000 --> 00:28:02,000
+What is it -- what are you even asking that question about?
+
+313
+00:28:02,000 --> 00:28:06,000
+But there's no arrow of time in the Core Theory equation.
+
+314
+00:28:06,000 --> 00:28:11,000
+There was no arrow of time in Newton's equations for describing the world.
+
+315
+00:28:11,000 --> 00:28:16,000
+The best since the time of Isaac Newton the best ways we have of describing the world at the most fundamental
+
+316
+00:28:16,000 --> 00:28:21,000
+microscopic level do not distinguish between past and future in any way.
+
+317
+00:28:21,000 --> 00:28:27,000
+Despite that the world in which we live obviously does distinguish between the past and future in many ways.
+
+318
+00:28:27,000 --> 00:28:31,000
+We remember what happened yesterday. We don't remember the future
+
+319
+00:28:31,000 --> 00:28:39,000
+I hope nobody here remembers the future. You can make choices right? So like right now you could decide
+
+320
+00:28:39,000 --> 00:28:44,000
+that you think this is the most boring lecture you've ever heard you can leave you don't need to be here for the next half
+
+321
+00:28:44,000 --> 00:28:50,000
+of the lecture. But you cannot right now decide not to have come to the lecture.
+
+322
+00:28:50,000 --> 00:28:54,000
+You cannot make a decision that affects the past, right?
+
+323
+00:28:54,000 --> 00:28:56,000
+There's an asymmetry of influence. Where does that come from
+
+324
+00:28:56,000 --> 00:29:01,000
+if the underlying laws treat the past and future symmetrically?
+
+325
+00:29:01,000 --> 00:29:04,000
+Well, it all comes down to this egg breaking.
+
+326
+00:29:04,000 --> 00:29:07,000
+If you understand the egg breaking, you understand why all these things are true.
+
+327
+00:29:07,000 --> 00:29:13,000
+This egg breaking illustrates the increase of Entropy or disorderliness -- the Second Law of Thermodynamics,
+
+328
+00:29:13,000 --> 00:29:18,000
+(which is going to be a theme of the Royal Institution's Advent Calendar)
+
+329
+00:29:18,000 --> 00:29:24,000
+Entropy increases. You clean your room, you leave it to its own devices, your room gets messier over time
+
+330
+00:29:24,000 --> 00:29:29,000
+that's a fundamental law of physics. Of course you can clean it again.
+
+331
+00:29:29,000 --> 00:29:31,000
+But that's because your room is not a closed system.
+
+332
+00:29:31,000 --> 00:29:34,000
+In an isolated system or in the universe as a whole
+
+333
+00:29:34,000 --> 00:29:38,000
+entropy increases the universe becomes more disorderly.
+
+334
+00:29:38,000 --> 00:29:41,000
+The reason why is because there are more ways to be
+
+335
+00:29:41,000 --> 00:29:45,000
+low-- more ways to be high entropy than to be low entropy.
+
+336
+00:29:45,000 --> 00:29:49,000
+You give me an orderly arrangement like an unbroken egg, it is easy to break it.
+
+337
+00:29:49,000 --> 00:29:54,000
+There's a lot more ways to arrange the molecules in the egg in the form of a broken egg or scrambled eggs
+
+338
+00:29:54,000 --> 00:29:58,000
+than there are in a very delicately chosen arrangement of the unbroken egg.
+
+339
+00:29:58,000 --> 00:30:04,000
+That's half of the reason why there is an arrow of time. There's more ways to be high entropy to be low entropy.
+
+340
+00:30:04,000 --> 00:30:10,000
+But the other half is the universe was low entropy in the past.
+
+341
+00:30:10,000 --> 00:30:16,000
+That's more of a puzzle. Why was the universe lower entropy, more orderly, yesterday than it is today?
+
+342
+00:30:16,000 --> 00:30:22,000
+I can tell you the answer. It's because it was even lower Entropy the day before yesterday.
+
+343
+00:30:22,000 --> 00:30:27,000
+And the reason why that's true is because it was even lower entropy the day before that
+
+344
+00:30:27,000 --> 00:30:31,000
+and this logic goes back 13.8 billion years to the Big Bang.
+
+345
+00:30:31,000 --> 00:30:38,000
+There's no fundamental arrow of time, just like there's no fundamental arrow of space in the laws of physics.
+
+346
+00:30:38,000 --> 00:30:44,000
+If you were an astronaut doing experiments, there'd be no difference between up down left right forward backward in front of you.
+
+347
+00:30:44,000 --> 00:30:47,000
+You could rotate yourself out there in space it wouldn't make any difference.
+
+348
+00:30:47,000 --> 00:30:49,000
+Here in this room, there's an arrow of space.
+
+349
+00:30:49,000 --> 00:30:54,000
+If I let go the book it falls. I could predict what direction it's gonna fall in -- it goes down.
+
+350
+00:30:54,000 --> 00:30:57,000
+We don't think that's built into the nature of reality,
+
+351
+00:30:57,000 --> 00:31:02,000
+we think it's because we live in the vicinity of an influential object, namely the Earth.
+
+352
+00:31:02,000 --> 00:31:06,000
+What I'm telling you is that the arrow of time is exactly the same way.
+
+353
+00:31:06,000 --> 00:31:13,000
+It's tempting, it's natural to think that the difference between past and future is somehow inherent in the nature of reality
+
+354
+00:31:13,000 --> 00:31:20,000
+but it's not. It's because we live in the aftermath of an influential event -- the Big Bang
+
+355
+00:31:20,000 --> 00:31:28,000
+That had a very low entropy, was a very organised system. We don't know why. If you want to know why -- well no one knows why
+
+356
+00:31:28,000 --> 00:31:33,000
+If you want to think about why I wrote a book that was the first book I wrote, _From Eternity to Here_
+
+357
+00:31:33,000 --> 00:31:36,000
+You can buy that, that's where this figure is from.
+
+358
+00:31:36,000 --> 00:31:42,000
+So what this is revealing to us, is that unlike an Aristotelian view which was teleological --
+
+359
+00:31:42,000 --> 00:31:48,000
+things were directed toward a future goal. They were headed toward going back to their natural state of being.
+
+360
+00:31:48,000 --> 00:31:52,000
+If anything, the macroscopic world is Echinological
+
+361
+00:31:52,000 --> 00:31:58,000
+which is from the Greek words start or beginning. The special state of the universe was where it began.
+
+362
+00:31:58,000 --> 00:32:03,000
+We don't know why it began in such a special state, but since then it's just been winding down.
+
+363
+00:32:03,000 --> 00:32:08,000
+That's all it's been doing. There is no future goal or place toward which we're going.
+
+364
+00:32:08,000 --> 00:32:15,000
+That increase of entropy is sufficient to explain all the differences between past and future.
+
+365
+00:32:15,000 --> 00:32:19,000
+We can't go through all of them -- that would require another book, or another lecture --
+
+366
+00:32:19,000 --> 00:32:23,000
+but let's think about the idea of a memory or a record
+
+367
+00:32:23,000 --> 00:32:31,000
+Some artifact some feature of the present day that gives us knowledge of the past in a reliable way.
+
+368
+00:32:31,000 --> 00:32:38,000
+So maybe that's literally a memory in your head, maybe it's a photograph maybe you're walking down the street on the sidewalk you see a broken egg
+
+369
+00:32:38,000 --> 00:32:47,000
+I claim that the evidence that you have (there's an egg broken on the sidewalk) gives you different leverage over the past than over the future.
+
+370
+00:32:47,000 --> 00:32:51,000
+You can ask yourself: what does the future of the egg hold?
+
+371
+00:32:51,000 --> 00:32:56,000
+Well many things are possible right? It could just sit there, someone could clean it up, a dog could come by and eat it,
+
+372
+00:32:56,000 --> 00:32:59,000
+it could be washed away.  There's many different possible futures.
+
+373
+00:32:59,000 --> 00:33:04,000
+What was the past of the egg probably like? Well, with very large probability
+
+374
+00:33:04,000 --> 00:33:08,000
+there was an unbroken egg and somebody dropped it, right?
+
+375
+00:33:08,000 --> 00:33:13,000
+We can say something much more specific and informative about the past given this evidence of the egg right now
+
+376
+00:33:13,000 --> 00:33:17,000
+than we can about the future. Why is that?
+
+377
+00:33:17,000 --> 00:33:22,000
+Again, if all you knew were the deepest laws of physics that equation I showed you or Newton's laws or whatever
+
+378
+00:33:22,000 --> 00:33:26,000
+your ability to extrapolate toward the past and future would be identical.
+
+379
+00:33:26,000 --> 00:33:31,000
+You have some knowledge of the worlds present state, but it is incomplete
+
+380
+00:33:31,000 --> 00:33:36,000
+You have this macroscopic configuration of the egg but you don't know what all the atoms and molecules are doing.
+
+381
+00:33:36,000 --> 00:33:44,000
+The number of things the egg could possibly do toward the future is exactly equal to the number of things that could have been doing in the past
+
+382
+00:33:44,000 --> 00:33:48,000
+if all you know is the fundamental laws of physics. But you know something else.
+
+383
+00:33:48,000 --> 00:33:52,000
+You know that the early universe had a low entropy. You know that our past --
+
+384
+00:33:52,000 --> 00:33:57,000
+something that philosophers have sadly labelled the Past Hypothesis -- (which is most boring label I've ever heard)
+
+385
+00:33:57,000 --> 00:34:02,000
+but the Past Hypothesis says the universe started with low entropy
+
+386
+00:34:02,000 --> 00:34:08,000
+and that provides an anchor that provides an asymmetry between what we know about the past and what we know about the future.
+
+387
+00:34:08,000 --> 00:34:10,000
+So you have not only the present information, but also
+
+388
+00:34:10,000 --> 00:34:16,000
+that past anchor and that lets you infer features of what actually happened in the past
+
+389
+00:34:16,000 --> 00:34:19,000
+If you have an egg broken on the sidewalk there used to be an unbroken egg
+
+390
+00:34:19,000 --> 00:34:27,000
+If you have a photograph of you ten years old wearing a red sweater, you probably were wearing a red sweater that day.
+
+391
+00:34:27,000 --> 00:34:33,000
+We all know that -- we've all heard, right, that there's this general tendency of the universe to wind down and
+
+392
+00:34:33,000 --> 00:34:40,000
+evolve toward its heat death over time. And there is in my country, there's a controversy over
+
+393
+00:34:40,000 --> 00:34:46,000
+what is called Creationism. Some people think that if you think that there's a fundamental feature of the world
+
+394
+00:34:46,000 --> 00:34:52,000
+where things just go to more more disorderly states that is incompatible with the
+
+395
+00:34:52,000 --> 00:34:47,000
+appearance over a cosmological history of things like you and me.
+
+396
+00:34:47,000 --> 00:35:05,000
+Because we're not low entropy. How is it possible that such highly organized things like you and me could just pop into existence
+
+397
+00:35:05,000 --> 00:35:09,000
+in a world that is generally becoming more and more disorganized?
+
+398
+00:35:09,000 --> 00:35:15,000
+And scientists have an immediate glib answer to this: the Earth and its biosphere is not a closed system
+
+399
+00:35:15,000 --> 00:35:21,000
+It's not isolated. You can clean your room. There are things called refrigerators.
+
+400
+00:35:21,000 --> 00:35:25,000
+If you put your bottle of champagne in the refrigerator its entropy will go down as it cools, okay?
+
+401
+00:35:25,000 --> 00:25:30,000
+So therefore there's no contradiction with the second law of thermodynamics that low entropy things
+
+402
+00:25:30,000 --> 00:35:35,000
+like you and me came to be as the universe expanded and cooled.
+
+403
+00:35:35,000 --> 00:35:40,000
+On the other hand, just because you can clean your room doesn't mean you will clean your room.
+
+404
+00:35:40,000 --> 00:35:44,000
+Some of you may have experienced this with children or even yourselves
+
+405
+00:35:44,000 --> 00:35:50,000
+So the fact that the Earth is not a closed system allows for the appearance of organized systems like you and me
+
+406
+00:35:50,000 --> 00:35:56,000
+but it doesn't explain why it happened. The explanation is of course incomplete. We don't know the full answer.
+
+407
+00:35:56,000 --> 00:36:02,000
+But it relies on the fact that there's a difference between simplicity and complexity.
+
+408
+00:36:02,000 --> 00:36:08,000
+There's an axis if you like between simple systems and complex systems;
+
+409
+00:36:08,000 --> 00:36:13,000
+another axis between low entropy organized things and high entropy disorganized things.
+
+410
+00:36:13,000 --> 00:36:18,000
+Being disorganized does not mean being simple or being complex.
+
+411
+00:36:18,000 --> 00:36:24,000
+Think about one of my favorite examples: mixing cream into coffee. On the left, you have a low entropy situation
+
+412
+00:36:24,000 --> 00:36:27,000
+all the cream's on the top, all the coffee's on the bottom.
+
+413
+00:36:27,000 --> 00:36:35,000
+As time goes on, the cream mixes into the coffee. On the right, you have a high entropy situation everything is mixed together
+
+414
+00:36:35,000 --> 00:36:39,000
+That's a natural flow of time from past to future.
+
+415
+00:36:39,000 --> 00:36:43,000
+But think about the system on the left. It is very simple.
+
+416
+00:36:43,000 --> 00:36:46,000
+Here the technical definition of simplicity vs. complexity is:
+
+417
+00:36:46,000 --> 00:36:52,000
+"How long do you have to talk to me to describe the system in full detail?" How many bytes of information do you need?
+
+418
+00:36:52,000 --> 00:36:59,000
+On the left, all the cream's on the top all the coffee's on the bottom. It's very simple.
+
+419
+00:36:59,000 --> 00:37:04,000
+On the right, everything is mixed together. It's also very simple.
+
+420
+00:37:04,000 --> 00:37:10,000
+It's in between, it's where those tendrils of cream and coffee are mixing together in some intricate fractal pattern
+
+421
+00:37:10,000 --> 00:37:19,000
+that's when things look complex. So there's a natural tendency as the universe ages for entropy to increase
+
+422
+00:37:19,000 --> 00:37:24,000
+but at the same time complexity first increases and then decreases.
+
+423
+00:37:24,000 --> 00:37:31,000
+It's not only that complex systems are allowed to come into existence when entropy is increasing.
+
+424
+00:37:31,000 --> 00:37:37,000
+In a very real sense, they do come into existence because entropy is increasing
+
+425
+00:37:37,000 --> 00:37:44,000
+or at least they can maintain themselves, they can maintain structure and order and self-repair
+
+426
+00:37:44,000 --> 00:37:49,000
+because we're in a very low entropy universe that is only gradually becoming more and more disorderly.
+
+427
+00:37:49,000 --> 00:37:55,000
+And it's not just cups of coffee and cream that this is true for this is true for the universe.
+
+428
+00:37:55,000 --> 00:37:59,000
+So here is the history of our observable universe in a very brief presentation
+
+429
+00:37:59,000 --> 00:38:04,000
+It started out -- we don't know what happened at the Big Bang, but one second after the Big Bang we know
+
+430
+00:38:04,000 --> 00:38:09,000
+what the universe was like. It was hot, dense, and smooth. That's it.
+
+431
+00:38:09,000 --> 00:38:15,000
+That's a very simple explanation a very simple description. I didn't take that many bytes to give it to you.
+
+432
+00:38:15,000 --> 00:38:22,000
+As the universe expands and cools, it becomes increasingly lumpier because gravity pulls things together
+
+433
+00:38:22,000 --> 00:38:27,000
+So a few hundred thousand years after the Big Bang we get the cosmic background radiation
+
+434
+00:38:27,000 --> 00:38:30,000
+A snapshot of what the universe looked like when it first became transparent
+
+435
+00:38:30,000 --> 00:38:36,000
+Tiny variations in density from place to place, but still pretty smooth
+
+436
+00:38:36,000 --> 00:38:40,000
+Now fourteen billion years after the Big Bang the universe is very complicated. 
+
+437
+00:38:40,000 --> 00:38:48,000
+We've formed galaxies and stars and planets and Biospheres and lecture halls. It's a very complicated part of the universe
+
+438
+00:38:48,000 --> 00:38:53,000
+But we can keep going. We discovered in 1998 that the universe is not only expanding, but accelerating
+
+439
+00:38:53,000 --> 00:38:56,000
+It's expanding faster and faster, which means it's never gonna stop
+
+440
+00:38:56,000 --> 00:39:01,000
+According to our best current theories what will happen is the stars will burn out
+
+441
+00:39:01,000 --> 00:39:09,000
+10 to the 15 years 1 quadrillion years from now the last star will stop shining - Sorry
+
+442
+00:39:09,000 --> 00:39:15,000
+All those stars are gonna fall into black holes and Stephen Hawking taught us in 1970s that even
+
+443
+00:39:15,000 --> 00:39:21,000
+black holes don't last forever. They give off radiation. So 10 to the 100 years from now
+
+444
+00:39:21,000 --> 00:39:26,000
+What used to be called a Google before the search engine took over the term 10 to the 100 years from now
+
+445
+00:39:26,000 --> 00:39:31,000
+There'll be nothing left in the observable universe it will literally be nothing but empty space
+
+446
+00:39:31,000 --> 00:39:36,000
+Nothing but empty space is very simple, but it is very high entropy.
+
+447
+00:39:36,000 --> 00:39:40,000
+Everything's very far apart, so there's lots of different arrangements for the things that do exist in the universe
+
+448
+00:39:40,000 --> 00:39:46,000
+So the entropy of this universe just increases, but the complexity first increases and then decreases
+
+449
+00:39:46,000 --> 00:39:53,000
+This is a natural robust generic way that complexity can come into being
+
+450
+00:39:53,000 --> 00:39:58,000
+What we want to do -- that's the easy part -- what we want to do is take that natural robust simple story and apply it
+
+451
+00:39:58,000 --> 00:40:05,000
+to the real evolution of complicated structures like life here on Earth.
+
+452
+00:40:05,000 --> 00:40:12,000
+So for me the epiphany was one day I was taking a plane ride to a conference and I was actually interested in the origin of life
+
+453
+00:40:12,000 --> 00:40:18,000
+I was reading a paper, a technical paper on the relationship between physics and the origin of life
+
+454
+00:40:18,000 --> 00:40:24,000
+So I'm sitting there reading my paper the guy in the plane seat next to me starts talking
+
+455
+00:40:24,000 --> 00:40:28,000
+And you know as a theoretical physicist and cosmologist you meet a lot of people who have theories
+
+456
+00:40:28,000 --> 00:40:34,000
+About the universe that they would like to explain to you.
+
+457
+00:40:34,000 --> 00:40:38,000
+So this guy looks at my paper, and he says, "Oh yes, I'm familiar with that work. In fact
+
+458
+00:40:38,000 --> 00:40:45,000
+I can tell you the purpose of life." Like okay, long plane ride ahead lay it on me.
+
+459
+00:40:45,000 --> 00:40:49,000
+He said the purpose of life is to hydrogenate carbon dioxide
+
+460
+00:40:49,000 --> 00:40:55,000
+Not what I expected his theory to be. Turns out the guy sitting next to me was
+
+461
+00:40:55,000 --> 00:41:04,000
+Dr. Michael Russell of the Jet Propulsion Laboratory in Pasadena one of the world's leading researchers on the origin of life
+
+462
+00:41:04,000 --> 00:41:09,000
+What are the odds? Well turns out we were going to the same conference so it's not completely a coincidence
+
+463
+00:41:09,000 --> 00:41:12,000
+Everything happens for a reason, remember
+
+464
+00:41:12,000 --> 00:41:18,000
+So Mike Russell's theory which is not universally accepted. We don't know how life began
+
+465
+00:41:18,000 --> 00:41:21,000
+there are different competing ideas. Mike Russell's theory -- he has one of the good ideas
+
+466
+00:41:21,000 --> 00:41:25,000
+His idea is that in certain environments of the early Earth
+
+467
+00:41:25,000 --> 00:41:32,000
+were in a low entropy configuration. In particular all the carbon atoms were in the form of carbon dioxide
+
+468
+00:41:32,000 --> 00:41:35,000
+which happens to be relatively low entropy
+
+469
+00:41:35,000 --> 00:41:40,000
+Given all the water and hydrogen around them, they could be in the form of methane, CH4
+
+470
+00:41:40,000 --> 00:41:43,000
+That would be a higher entropy configuration.
+
+471
+00:41:43,000 --> 00:41:50,000
+In some sense, to be a little bit poetic about it, it "wants" to be in the form of methane. That would be higher entropy.
+
+472
+00:41:50,000 --> 00:42:00,000
+But there is no simple chemical reaction that goes from carbon dioxide to methane while increasing the entropy all along there's a barrier in between
+
+473
+00:42:00,000 --> 00:42:06,000
+You need to first lower the entropy to get to the higher entropy state
+
+474
+00:42:06,000 --> 00:42:09,000
+So Mike Russell's idea is that even though there's no simple chemical reaction
+
+475
+00:42:09,000 --> 00:42:13,000
+There is a network of complex chemical reactions that could do the trick
+
+476
+00:42:13,000 --> 00:42:17,000
+and that in the right circumstances that could happen and be self-sustaining
+
+477
+00:42:17,000 --> 00:42:25,000
+and that self-sustaining metabolism could then break free of its original environment and become the precursor to life
+
+478
+00:42:25,000 --> 00:42:30,000
+So it's more than just a pretty story. He actually made a prediction.
+
+479
+00:42:30,000 --> 00:42:37,000
+He's a geologist by training and he said, you know if this is true there must exist under the ocean floor a certain kind of geological formation
+
+480
+00:42:37,000 --> 00:42:45,000
+warm alkaline hydrothermal event -- hydrothermal vents where this kind of chemistry is going on
+
+481
+00:42:45,000 --> 00:42:49,000
+and after he made the prediction they found them. This is what you live for in science.
+
+482
+00:42:49,000 --> 00:42:56,000
+This is a picture of the Lost City hydrothermal formation deep underneath the Atlantic Ocean in the Mid-Atlantic Ridge
+
+483
+00:42:56,000 --> 00:42:59,000
+It's been it lasts for tens of thousands of years
+
+484
+00:42:59,000 --> 00:43:04,000
+So Mike Russell and other people think that maybe this is the kind of place where life began
+
+485
+00:43:04,000 --> 00:43:10,000
+We don't know -- I'm not pushing this theory necessarily -- what I'm pointing out is that rather than saying
+
+486
+00:43:10,000 --> 00:43:15,000
+"But entropy increases why should something as complex as life ever come to be?"
+
+487
+00:43:15,000 --> 00:43:22,000
+The -- it's very very plausible that the appearance of life depended on the fact that entropy tends to increase
+
+488
+00:43:22,000 --> 00:43:28,000
+so you actually find the complexity depends on entropy increasing and vice versa
+
+489
+00:43:28,000 --> 00:43:34,000
+The reason why entropy could increase in this system is only because you had a complex network of reactions
+
+490
+00:43:34,000 --> 00:43:37,000
+And that of course continues to the present day.
+
+491
+00:43:37,000 --> 00:43:40,000
+We live in an open system. We live here on Earth.
+
+492
+00:43:40,000 --> 00:43:46,000
+You ask yourself, "What good is the Sun? What does the Sun do for us here on Earth?"
+
+493
+00:43:46,000 --> 00:43:50,000
+You might think, well we get energy from the Sun. But that's not quite right.
+
+494
+00:43:50,000 --> 00:43:54,000
+It's true that we get energy from the Sun. But we give the same amount of energy back to the universe
+
+495
+00:43:54,000 --> 00:43:59,000
+We radiate back into the universe the same amount of energy that we get from solar radiation
+
+496
+00:43:59,000 --> 00:44:05,000
+The difference is that for every one photon of light we get from the Sun -- visible light --
+
+497
+00:44:05,000 --> 00:44:10,000
+we radiate twenty photons of infrared light back to the universe
+
+498
+00:44:10,000 --> 00:44:17,000
+with on average one twentieth of the energy each, but twenty times the entropy
+
+499
+00:44:17,000 --> 00:44:23,000
+The thing that the Sun gives us is not just energy, but energy in a concentrated low entropy form
+
+500
+00:44:23,000 --> 00:44:30,000
+and we then photosynthesize, chew our cud, eat our cows, give lectures, write books
+
+501
+00:44:30,000 --> 00:44:36,000
+All of that, all those processes increase the entropy of the universe along the way
+
+502
+00:44:36,000 --> 00:44:39,000
+Then we give it back to the universe in the form of infrared radiation
+
+503
+00:44:39,000 --> 00:44:46,000
+So we are sustained by increasing entropy. Back in the 1800s, it was a reasonable hypothesis
+
+504
+00:44:46,000 --> 00:44:51,000
+that Life was a Thing. We thought for instance that Heat was a Thing
+
+505
+00:44:51,000 --> 00:44:56,000
+if you put a hot object next to a cold object they equilibrate -- they come to the same temperature -- so people said
+
+506
+00:44:56,000 --> 00:45:02,000
+"Well, that's kind of like putting two vessels with a fluid in it
+the fluid comes to the same level
+
+507
+00:45:02,000 --> 00:45:06,000
+there must be a heat fluid that flows from the hot thing to the cold thing."
+
+508
+00:45:06,000 --> 00:45:10,000
+Not true!  Don't believe anything I just said. Heat is not a fluid; heat is a feature
+
+509
+00:45:10,000 --> 00:45:15,000
+It is a way of talking about the motions of the atoms and molecules
+
+510
+00:45:15,000 --> 00:45:22,000
+Life is the same way. Life is not a force or a substance that is in your body and then leaves
+
+511
+00:45:22,000 --> 00:45:27,000
+it is a feature. It is a way of talking about what is happening inside you.
+
+512
+00:45:27,000 --> 00:45:30,000
+The bad news is that that means it will end someday but we'll get to that in a second.
+
+513
+00:45:30,000 --> 00:45:35,000
+I have lots of bad news. Don't -- don't worry
+
+514
+00:45:35,000 --> 00:45:40,000
+The good news is that once this happens once you get life
+
+515
+00:45:40,000 --> 00:45:45,000
+once you get this chemical reaction that sustains itself and reproduces and wants to keep going
+
+516
+00:45:45,000 --> 00:45:49,000
+there's this wonderful thing that kicks in called evolution
+
+517
+00:45:49,000 --> 00:45:55,000
+If there's different ways the chemical reaction could arrange itself and some of them were more robust and more likely to survive
+
+518
+00:45:55,000 --> 00:45:58,000
+Professor Darwin would tell you that's what's going to happen
+
+519
+00:45:58,000 --> 00:46:03,000
+Those more robust ones are likely to dominate the future ecosystem in that particular environment
+
+520
+00:46:03,000 --> 00:46:08,000
+And what that means is that we can once again change our vocabularies
+
+521
+00:46:08,000 --> 00:46:16,000
+just as we change our vocabulary - going from particles and atoms to eggs and entropy and and time
+
+522
+00:46:16,000 --> 00:46:21,000
+We can change our vocabulary when we start talking about biology and evolution
+
+523
+00:46:21,000 --> 00:46:27,000
+because the new words that creep into our vocabulary are words of purpose and reasons why
+
+524
+00:46:27,000 --> 00:46:33,000
+Why is it that a giraffe has a very long neck? You could say if you want to be annoying about it,
+
+525
+00:46:33,000 --> 00:46:39,000
+"Well because of the laws of physics and the initial conditions of the universe, that's why giraffe has its long neck."
+
+526
+00:46:39,000 --> 00:46:45,000
+That's the answer to every question, "why is something true?" Laws of physics and the initial conditions of the universe.
+
+527
+00:46:45,000 --> 00:46:51,000
+But it's not the only possible answer. In fact, it's not a very sensible answer, right? There's another answer that says,
+
+528
+00:46:51,000 --> 00:46:58,000
+Well, giraffes had mutations in their genes and some of them got longer necks and those were able to reach
+
+529
+00:46:58,000 --> 00:47:04,000
+sources of food up on trees that other animals with which they were competing were not able to reach
+
+530
+00:47:04,000 --> 00:47:09,000
+and therefore over successive generations the longer and longer necks survived and flourished
+
+531
+00:47:09,000 --> 00:47:15,000
+and they were naturally selected to be like that. So in a very real sense the purpose of the giraffes long neck
+
+532
+00:47:15,000 --> 00:47:20,000
+is to help it reach food sources that it couldn't otherwise reach
+
+533
+00:47:20,000 --> 00:47:27,000
+Where did that purpose come in? Did it did someone put it there? No, it evolved naturally, but that doesn't mean it's fake
+
+534
+00:47:27,000 --> 00:47:34,000
+It doesn't mean it's an illusion. It is a useful emergent vocabulary for talking about what happens at the macroscopic level
+
+535
+00:47:34,000 --> 00:47:39,000
+And you're probably willing to believe that if I'm just talking about life and biology.
+
+536
+00:47:39,000 --> 00:47:46,000
+It's where it comes to thinking and neuroscience and consciousness that people tend to get off the bus.
+
+537
+00:47:46,000 --> 00:47:52,000
+And of course just like with the origin of life we don't understand the origin of consciousness or what it really is.
+
+538
+00:47:52,000 --> 00:47:58,000
+What we can do is suggest occasional steps in the history of life which might help us understand
+
+539
+00:47:58,000 --> 00:48:03,000
+why consciousness became an interesting part of biology.
+
+540
+00:48:03,000 --> 00:48:10,000
+This guy up here the C Elegans nematode kind of flat worm is a little model organism
+
+541
+00:48:10,000 --> 00:48:15,000
+that biologists like to study. In your brain the cells doing the thinking are the neurons
+
+542
+00:48:15,000 --> 00:48:20,000
+There's something like 85 billion neurons in your brain
+
+543
+00:48:20,000 --> 00:48:23,000
+and different neurons are connected to each other and a big project for modern neuroscience
+
+544
+00:48:23,000 --> 00:48:29,000
+is studying the connectome -- the way that all the neurons in your brain are connected to each other
+
+545
+00:48:29,000 --> 00:48:34,000
+We're gonna start with a simpler system. We're going to start with C elegans. We have its connectome
+
+546
+00:48:34,000 --> 00:48:39,000
+We've mapped it out. C elegans flatworm has exactly 302 neurons
+
+547
+00:48:39,000 --> 00:48:43,000
+So you can actually count them, and then now you counted them and see how they connect to each other
+
+548
+00:48:43,000 --> 00:48:49,000
+We're trying to figure out what they're for what they do in the flatworm. There is a paper that came out
+
+549
+00:48:49,000 --> 00:48:55,000
+I'm not sure if it's correct or not -- theoretical physicist remember. But there's a claim that is very interesting one
+
+550
+00:48:55,000 --> 00:49:00,000
+that says they can identify one of those neurons whose job it is
+
+551
+00:49:00,000 --> 00:49:05,000
+to tell the nematode whether it's looking at itself or the rest of the world
+
+552
+00:49:05,000 --> 00:49:10,000
+Is this thing in front of me is this dirt is this water, or is this just my tail right?
+
+553
+00:49:10,000 --> 00:49:15,000
+This this one part of one neuron its job is to sort of
+
+554
+00:49:15,000 --> 00:49:21,000
+Have a little bit of self-awareness, a little bit of "Well, this is me not the rest of the world"
+
+555
+00:49:21,000 --> 00:49:25,000
+now you can see why if that developed just through the natural fluctuations
+
+556
+00:49:25,000 --> 00:49:31,000
+and mutations of evolution it would be an advantageous thing to keep around. We have much more highly developed
+
+557
+00:49:31,000 --> 00:49:35,000
+self-awareness and you can imagine other steps along the way.
+
+558
+00:49:35,000 --> 00:49:41,000
+Malcolm McIver who is a mechanical engineer at Northwestern he studies fish and
+
+559
+00:49:41,000 --> 00:49:49,000
+how in particular fish sense their surroundings. So he points out that a fish with its eyes eyes are very ubiquitous in life
+
+560
+00:49:49,000 --> 00:49:55,000
+They developed multiple independent times in the course of evolution. But eyes aren't that great if you're underwater
+
+561
+00:49:55,000 --> 00:50:01,000
+you know you can see tens of meters at most. The attenuation length of light is just not that far and
+
+562
+00:50:01,000 --> 00:50:09,000
+you're swimming at meters per second. So if you're a fish every time you see something new you have seconds to react to it
+
+563
+00:50:09,000 --> 00:50:15,000
+maybe a second, right? So the evolutionary pressure is to make a decision really quickly is this
+
+564
+00:50:15,000 --> 00:50:20,000
+food is this friendly, or is this foe and I should run away?
+
+565
+00:50:20,000 --> 00:50:24,000
+So you don't need to think too much if you're a fish, but when you hop onto land
+
+566
+00:50:24,000 --> 00:50:29,000
+Now the attenuation length of photons is kilometers. You can see off to the horizon. You can see essentially forever
+
+567
+00:50:29,000 --> 00:50:35,000
+It's possible that you now see something coming long before you need to react
+
+568
+00:50:35,000 --> 00:50:42,000
+So there's a new evolutionary pressure that starts exerting itself that if you just through the randomness of evolution
+
+569
+00:50:42,000 --> 00:50:48,000
+develop the ability to contemplate different hypothetical scenarios
+
+570
+00:50:48,000 --> 00:50:56,000
+Then you have a new way of winning the struggle for survival. That is to say, up on land it pays to develop an imagination
+
+571
+00:50:56,000 --> 00:51:03,000
+Not just an awareness of yourself, but the ability to put yourself hypothetically into different situations and say what is the right thing to do?
+
+572
+00:51:03,000 --> 00:51:06,000
+We don't know if any of this is right, okay?
+
+573
+00:51:06,000 --> 00:51:13,000
+We don't know how consciousness evolved or even we don't even know the right definition of consciousness, but you can imagine
+
+574
+00:51:13,000 --> 00:51:19,000
+stories like this will be put together by the progress of biology and neuroscience over the years
+
+575
+00:51:19,000 --> 00:51:22,000
+The only thing that I really care about I really want to stress
+
+576
+00:51:22,000 --> 00:51:27,000
+is that there's nothing that we know about consciousness that is incompatible with the idea
+
+577
+00:51:27,000 --> 00:51:32,000
+that we are made of the particles and fields of the core theory obeying that equation
+
+578
+00:51:32,000 --> 00:51:43,000
+Here I have a picture of my brain. This is actually my it's not my brain it's the skull so I was in it's not to scale either but
+
+579
+00:51:43,000 --> 00:51:50,000
+I was in a machine MEG Magneto Encephalogram machine and there were
+
+580
+00:51:50,000 --> 00:51:55,000
+sensors placed on my skull that looked for magnetic fields you've seen fMRI
+
+581
+00:51:55,000 --> 00:52:01,000
+pictures which are able very very good at locating things spatially in the brain But their time resolution is not very good
+
+582
+00:52:01,000 --> 00:52:05,000
+An MEG has great time resolution because what happens is
+
+583
+00:52:05,000 --> 00:52:11,000
+Your brain is made of particles in the core theory in that includes your neurons so when your neurons talk to each other
+
+584
+00:52:11,000 --> 00:52:19,000
+electrically charged particles race down the neurons and as people who stood at this desk long before me could tell you
+
+585
+00:52:19,000 --> 00:52:27,000
+when charged particles start moving you create a magnetic field. So this sense is. The magnetic field that those blue, and red splotches are the magnetic
+
+586
+00:52:27,000 --> 00:52:33,000
+fields the south and north poles coming in and out of my skull when I think a thought
+
+587
+00:52:33,000 --> 00:52:39,000
+This is just a reminder of something you already know which is that thoughts are associated with real physical things
+
+588
+00:52:39,000 --> 00:52:47,000
+happening in your brain. They're not abstract things outside our physical bodies there used to be a theory that they were right Rene Descartes
+
+589
+00:52:47,000 --> 00:52:57,000
+very famously promulgated a theory of mind-body dualism. He was a skeptic and he came up with a "Cogito, ergo sum" argument, I think therefore I am,
+
+590
+00:52:57,000 --> 00:53:06,000
+I cannot doubt the existence of my mind because it is the thing doing the doubting But he says it's very easy for me to doubt the existence of my body
+
+591
+00:53:06,000 --> 00:53:13,000
+so if I can doubt the existence of my body but not the existence of my mind they must be two separate things. He wrote books about this became very famous
+
+592
+00:53:13,000 --> 00:53:19,000
+died a tragic death in the cold, but that's a whole another story, so... There weren't a lot of tenured faculty
+
+593
+00:53:19,000 --> 00:53:26,000
+positions at the time of Descartes in the 1600s so one had to be nice to potential patrons
+
+594
+00:53:26,000 --> 00:53:34,000
+So he got to know this young lady Princess Elizabeth of Bohemia. His his aim wasn't very good. They were in exile and didn't have a lot of money
+
+595
+00:53:34,000 --> 00:53:40,000
+Princess Elizabeth and her family, but fortunately Princess Elizabeth was a genius. She was a wonderful thinker very highly educated
+
+596
+00:53:40,000 --> 00:53:49,000
+She devoured Descartes' books and she didn't agree with what he said. And they struck up a correspondence which is a wonderful thing to read I encourage you to go look up
+
+597
+00:53:49,000 --> 00:53:59,000
+Princess Elizabeth's correspondence with Descartes and Elizabeth says, "look, this mind-body stuff I just don't know -- you're saying that there's a mind that is literally
+
+598
+00:53:59,000 --> 00:54:04,000
+Immaterial that has no location in space and yet it clearly
+
+599
+00:54:04,000 --> 00:54:10,000
+Influences what our bodies do when I talk presumably my mind has something to do with the words, I'm saying
+
+600
+00:54:10,000 --> 00:54:18,000
+So Elizabeth wants to know how does the immaterial mind causally affect the material body?
+
+601
+00:54:18,000 --> 00:54:22,000
+And Descartes in response drew pictures like this. This is yeah. It was back in the days
+
+602
+00:54:22,000 --> 00:54:27,000
+They were just begin to open people up right so they knew that your brain came in two different hemispheres
+
+603
+00:54:27,000 --> 00:53:32,000
+There seemed to be one organ in the brain that there's only one of them it was not broken in two
+
+604
+00:53:32,000 --> 00:54:37,000
+that was the pineal gland that little teardrop shaped thing right there, so Descartes says well
+
+605
+00:54:37,000 --> 00:54:43,000
+You only have one mind, one soul, so I bet that the soul talks to your body via the pineal gland
+
+606
+00:54:43,000 --> 00:54:49,000
+Yeah, no one else believed that either in the 1600s. It was not a very effective
+
+607
+00:54:49,000 --> 00:54:56,000
+Hypothesis for understanding what was going on. And so Elizabeth kept pushing on him, and he never really gave a very good answer
+
+608
+00:54:56,000 --> 00:55:01,000
+Today we would have a much sharper version of Elizabeth's question
+
+609
+00:55:01,000 --> 00:55:08,000
+Remember this I know you love this equation right. If Princess Elizabeth were here today she would say Renee,
+
+610
+00:55:08,000 --> 00:55:14,000
+Tell me how the immaterial mind pushes around the quantum fields of the core theory this
+
+611
+00:55:14,000 --> 00:55:19,000
+Equation tells me what's going to happen in the quantum fields of the core theory without any reference to an immaterial mind
+
+612
+00:55:19,000 --> 00:55:27,000
+So you must be saying this equation is wrong in some way. Tell me how and there's still no answer to that
+
+613
+00:55:27,000 --> 00:55:32,000
+So the conclusion that I want to draw is not that I understand what consciousness is or how it came about
+
+614
+00:55:32,000 --> 00:55:38,000
+But that we should be able to understand it without invoking violations of the physical laws
+
+615
+00:55:38,000 --> 00:55:46,000
+that make up you and me. Does that mean that we are non-autonomous robots?
+
+616
+00:55:46,000 --> 00:55:51,000
+Well, I don't think so. So the philosophy that I try to elucidate in the book is called poetic naturalism
+
+617
+00:55:51,000 --> 00:55:58,000
+The idea is that there's naturalism says there's only one world the natural world But poetic means there's many ways of talking about the world
+
+618
+00:55:58,000 --> 00:56:04,000
+there's many different levels of description whether it's atoms versus gas in a room or
+
+619
+00:56:04,000 --> 00:56:10,000
+Emergent purpose for the neck of the giraffe or even things like making choices
+
+620
+00:56:10,000 --> 00:56:17,000
+you can describe yourself as a set of particles and forces obeying the core theory or you can describe yourself as a person.
+
+621
+00:56:17,000 --> 00:56:23,000
+And people make choices. If you choose to describe yourself using only
+
+622
+00:56:23,000 --> 00:56:29,000
+Atoms and molecules, then there is no such thing as free will and there's no such thing as the ability to make a choice
+
+623
+00:56:29,000 --> 00:56:34,000
+But if as real actual people do you describe yourself as a person then you can't help
+
+624
+00:56:34,000 --> 00:56:38,000
+But attribute to yourself the ability to make choices
+
+625
+00:56:38,000 --> 00:56:44,000
+So if you want to say can free will the ability to make choices be real and true even though we are made of atoms
+
+626
+00:56:44,000 --> 00:56:51,000
+Yes, of course it can in the same way that any emergent property can be real the different vocabularies work within
+
+627
+00:56:51,000 --> 00:56:57,000
+themselves you can't start a sentence in one language, and then end it in another one and
+
+628
+00:56:57,000 --> 00:57:02,000
+Once you accept that then the same thing goes true for more judgmental
+
+629
+00:57:02,000 --> 00:57:11,000
+value-laden propositions. Is there right and wrong? Is there a way to live in the world with meaning and compassion? Well yes
+
+630
+00:57:11,000 --> 00:57:18,000
+It's nowhere to be found in the fundamental atoms but nowhere to be found in fundamentals of tables either or water
+
+631
+00:57:18,000 --> 00:57:21,000
+right these are higher level emergent properties and caring and meaning and purpose
+
+632
+00:57:21,000 --> 00:57:30,000
+are the same kind of thing. Now that bothers people because they want things like right and wrong to be objective right
+
+633
+00:57:30,000 --> 00:57:38,000
+Even the most hardcore scientifically minded person wants to say well. I will someday do so much science that I will tell you right from wrong
+
+634
+00:57:38,000 --> 00:57:44,000
+I will discover how to live as a human being I'm here to say that it's never going to happen more bad news
+
+635
+00:57:44,000 --> 00:57:52,000
+Sorry. The good news is that you can choose what to label right and wrong and no one can stop you
+
+636
+00:57:52,000 --> 00:57:55,000
+you construct your own morality the analogy I like to use is
+
+637
+00:57:55,000 --> 00:58:03,000
+think of the rules of chess. The rules of chess are not fixed by the laws of physics. We made them up
+
+638
+00:58:03,000 --> 00:58:09,000
+We all agree on that, but that doesn't mean they're arbitrary that doesn't mean you could make up any old rules and they'd be just as good
+
+639
+00:58:09,000 --> 00:58:13,000
+When we made up the rules of chess we had goals in mind.
+
+640
+00:58:13,000 --> 00:58:17,000
+And when we make up the rules of right and wrong and living together in the world we likewise have
+
+641
+00:58:17,000 --> 00:58:24,000
+Goals in mind we will not always agree there will always be people who would rather play go than play chess
+
+642
+00:58:24,000 --> 00:58:30,000
+We might have to sort of come to an understanding of what our overlap is, but that doesn't mean that we're adrift
+
+643
+00:58:30,000 --> 00:58:36,000
+It doesn't mean that just because the universe doesn't tell us how to behave there is no way to behave
+
+644
+00:58:36,000 --> 00:58:43,000
+All right the final piece of bad news. I already sort of foreshadowed this, but you are all going to die
+
+645
+00:58:43,000 --> 00:58:53,000
+So biologists like to study these scaling relations. How one biological property depends on another one so it turns out that larger animals live longer
+
+646
+00:58:53,000 --> 00:59:03,000
+But their hearts beat slower, and it is particular kind of animals like mammals for example, these effects cancel out, in mammals very roughly speaking
+
+647
+00:59:03,000 --> 00:59:08,000
+Every mammal is granted one and a half billion heartbeats for their lifetime
+
+648
+00:59:08,000 --> 00:59:15,000
+on this axis you can figure out you tell me how heavy an object is a Mammal is I will tell you how fast its heart beats
+
+649
+00:59:15,000 --> 00:59:20,000
+And how long it's gonna live. Now we human beings heart beats and you know once per second right
+
+650
+00:59:20,000 --> 00:59:26,000
+60 or 70 times a minute so that puts us at about 40 years and that's about right
+
+651
+00:59:26,000 --> 00:59:30,000
+That's how long we used to live back in the state of nature of course these days we have
+
+652
+00:59:30,000 --> 00:59:35,000
+Obamacare and the National Health and pasteurized milk So we have increased our lifespan
+
+653
+00:59:35,000 --> 00:59:42,000
+We live twice as long as we should so that gives us three billion heartbeats to our lives before we die
+
+654
+00:59:42,000 --> 00:59:47,000
+And if you believe in the core theory do you believe that we are made of particles obeying the laws of physics
+
+655
+00:59:47,000 --> 00:59:51,000
+Then there is no life after death there's no place for the information that is contained in your neurons
+
+656
+00:59:51,000 --> 00:59:59,000
+to go when you die because it's in your neurons and the atoms that are there they stay in your body even when you you die.
+
+657
+00:59:59,000 --> 01:00:05,000
+And that can be sad. You you might want to be I would have liked to live not maybe forever forever is a long time
+
+658
+01:00:05,000 --> 01:00:10,000
+But I think I could keep things interesting for a few hundred thousand years before they got boring
+
+659
+01:00:10,000 --> 01:00:13,000
+I only get three billion heartbeats and three billion is an interesting number
+
+660
+01:00:13,000 --> 01:00:19,000
+It's sort of a big number, but it's not that big. I mean you've squandered a couple thousand heartbeats
+
+661
+01:00:19,000 --> 01:00:25,000
+Just over the course of this lecture Knowing that you have about 3 billion heartbeats allocated to you
+
+662
+01:00:25,000 --> 01:00:32,000
+Makes every heartbeat seem precious, right? It's not just like a little thing that will grow into something
+
+663
+01:00:32,000 --> 01:00:40,000
+After we die because this is it every one of those heartbeats is meaningful to you Because you only have a finite number
+
+664
+01:00:40,000 --> 01:00:46,000
+So the good news. This is not going to sound like good news after all that bad news, but the good news is
+
+665
+01:00:46,000 --> 01:00:52,000
+On the one hand we are very very small ok this is the famous Hubble Ultra Deep Field
+
+666
+01:00:52,000 --> 01:00:57,000
+an image of galaxies if you take us telescope and point it at the sky and you click the shutter on the camera
+
+667
+01:00:57,000 --> 01:01:05,000
+and you just leave it open this is what you will see if your telescope is the Hubble Space Telescope. This is what you will see
+
+668
+01:01:05,000 --> 01:01:13,000
+Our universe is alive with galaxies our our galaxy the Milky Way has about a hundred billion stars
+
+669
+01:01:13,000 --> 01:01:19,000
+Before last week I was able to say there's about a hundred billion Galaxies in the observable universe, I don't know if you following the news
+
+670
+01:01:19,000 --> 01:01:26,000
+But they discovered that the density of galaxies is actually 20 times higher than we thought it was. There's about two trillion
+
+671
+01:01:26,000 --> 01:01:33,000
+galaxies in the observable universe. Every one of these dots even tiny dots. That's a galaxy with a hundred billion stars
+
+672
+01:01:33,000 --> 01:01:40,000
+Who knows how many royal institutions they have where there's a lecture going on there with a picture of us up there. We seem very small
+
+673
+01:01:40,000 --> 01:01:47,000
+That's the that's the last piece of bad news the good news is, we took this picture
+
+674
+01:01:47,000 --> 01:01:56,000
+Right we're exactly there. You go appreciate the good news We are very very tiny insignificant the universe is not about us if the universe was about us
+
+675
+01:01:56,000 --> 01:02:01,000
+If there was some purpose to the world that was for our greater glory, we would not be
+
+676
+01:02:01,000 --> 01:02:08,000
+Around a medium sized planet around a medium sized star in a galaxy with 100 billion stars in a universe with two trillion galaxies
+
+677
+01:02:08,000 --> 01:02:16,000
+We'd be more central. And if you look at the ancient pictures of the world we were always much more central than the modern view had it
+
+678
+01:02:16,000 --> 01:02:21,000
+despite that we are the little part of the universe in this age when things are complex and interesting
+
+679
+01:02:21,000 --> 01:02:25,000
+that has developed the capacity for self-awareness and reflection
+
+680
+01:02:25,000 --> 01:02:31,000
+and thinking and rational thought and writing books and buying books by the way
+
+681
+01:02:31,000 --> 01:02:37,000
+and that should make us feel pretty good. We don't always do very well at it
+
+682
+01:02:37,000 --> 01:02:43,000
+I think both in my country in yours there are examples in recent political history where things have gone
+
+683
+01:02:43,000 --> 01:02:53,000
+Not right. But we have the ability to be rational to think to invent to discover to create new things to care about each other in ways
+
+684
+01:02:53,000 --> 01:02:59,000
+That other parts of the universe just don't care about each other and that's that capacity that we have as fleeting as
+
+685
+01:02:59,000 --> 01:03:07,000
+Life is it's up to us What to make of it the fact that we are made of atoms and particles obeying the laws of physics doesn't stop us
+
+686
+01:03:07,000 --> 01:03:13,000
+From caring about ourselves the rest of the world our legacies the people next to us right now
+
+687
+01:03:13,000 --> 01:03:17,000
+So that's a choice that we can make completely compatible with the laws of physics I urge you all to choose very wisely. Thank you
+
